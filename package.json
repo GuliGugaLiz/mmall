@@ -1,0 +1,8 @@
+{
+  "name": "mmall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GuliGugaLiz/mmall.git",
+  "author": "GuliGugaLiz <791039416@qq.com>",
+  "license": "MIT"
+}
